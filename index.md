@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+# Emily's First CS193 Homework
+
+Favorite things!
+- no exams
+- PSOs aren't mandatory
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
